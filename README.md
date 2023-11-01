@@ -103,3 +103,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - How to add authentication to your app using NextAuth.js
 - How to use Middleware to redirect users and protect your routes
 - How to use React's `useFormStatus` and `useFormState` to handle pending states and form errors
+
+**16. Adding Metadata** - Learn how to add metadata to your Next.js application
+
+- What metadata is
+- Types of metadata
+- How to add an Open Graph image using metadata
+- How to add a favicon using metadata
