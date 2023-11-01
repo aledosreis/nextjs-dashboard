@@ -1,3 +1,5 @@
+'use client'
+
 import { authenticate } from '@/app/lib/actions'
 import { lusitana } from '@/app/ui/fonts'
 import { ArrowRightIcon } from '@heroicons/react/20/solid'
