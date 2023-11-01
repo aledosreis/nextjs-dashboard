@@ -37,3 +37,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - How to use use the next/link component
 - How to show an active link with the usePathname() hook
 - How to client-side navigation works on Next.js
+
+**6. Setting up your Database** - Setup your database for your application and seed it with initial data.
+
+- Push your project to GitHub
+- Set up a Vercel account and link your GitHub repo for instant previews and deployments
+- Create and link your project to a Postgres database
+- Seed the database with inicial data
