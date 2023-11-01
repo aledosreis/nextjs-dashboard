@@ -1,5 +1,6 @@
 'use server'
 
+import { sql } from '@vercel/postgres'
 import { z } from 'zod'
 
 const InvoiceSchema = z.object({
@@ -20,4 +21,9 @@ export async function createInvoice(formData: FormData) {
 	})
 	const amountInCents = amount * 100 // Convert amount to cents
 	const date = new Date().toISOString().split('T')[0] // Create new Date on "YYYY-MM-DD" format
+
+	await sql`
+    INSERT INTO invoices (customer_id, amount, status, date)
+    VALUES (${customerId}, ${amountInCents}, ${status}, ${date})
+  `
 }
