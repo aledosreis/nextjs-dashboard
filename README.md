@@ -51,3 +51,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - How Server Components help us access our back-end resources more securely
 - What network waterfalls are
 - How to implement parallel data fetching using a JavaScript Pattern
+
+**8. Static and Dynamic Rendering** - Understand how rendering works in Next.js, and make your dashboard app dynamic
+
+- What Static Rendering is and how it can improve your application's performance
+- What Dynamic Rendering is and when to use it
+- Different approaches to make your dashboard dynamic
+- The limitation of fetching data at request time
