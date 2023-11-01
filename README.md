@@ -71,3 +71,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - What Partial Prerendering is
 - How Partial Prerendering works
+
+**11. Adding Search and Pagination** - Add search and pagination to your dashboard application using Next.js APIs
+
+- Learn how to use the Next.js APIs: searchParams, usePathname, and useRouter
+- Implement search and pagination using URL search params
