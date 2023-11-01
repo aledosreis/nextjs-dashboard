@@ -31,3 +31,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - Understand the role of folders and files when creating new route segments
 - Create a layout that can be shared between multiple dashboard pages
 - Understand what colocation, partial rendering, and root layout are
+
+**5. Navigating Between Pages** - Learn how to use Link component to navigate between pages
+
+- How to use use the next/link component
+- How to show an active link with the usePathname() hook
+- How to client-side navigation works on Next.js
