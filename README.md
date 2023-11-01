@@ -66,3 +66,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - What loading skeletons are
 - What route groups are, and when you might use them
 - Qhere to place Suspense boundaries in your application
+
+**10. Partial Prerendering (Optional)** - An early look into Partial Prerendering and how it works
+
+- What Partial Prerendering is
+- How Partial Prerendering works
