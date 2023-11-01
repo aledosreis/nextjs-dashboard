@@ -24,3 +24,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - How to add custom fonts with next/font
 - How to add images with next/image
 - How fonts and images are optimized in Next.js
+
+**4. Creating Layouts and Pages** - Create the dashboard routes and a shared layout that can be shared between multiple pages
+
+- Create the /login and dashboard pages using file-system routing
+- Understand the role of folders and files when creating new route segments
+- Create a layout that can be shared between multiple dashboard pages
+- Understand what colocation, partial rendering, and root layout are
