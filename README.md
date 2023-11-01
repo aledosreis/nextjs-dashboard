@@ -85,3 +85,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - How to revalidate the client cache using the revalidatePath API
 - How to create dynamic route segments with specific IDs
 - How to use the React's useFormStatus hook for optimistic updates
+
+**13. Handling Errors** - Handle errors gracefully with error.tsx and notFound
+
+- How to use the special error.tsx file to catch errors in your route segments, and show a fallback UI to the user
+- How to use the notFound function and not-found file to handle 404 errors (for resources that don’t exist)
