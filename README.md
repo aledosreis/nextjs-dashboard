@@ -96,3 +96,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - How to use eslint-plugin-jsx-a11y with Next.js to implement accessibility best practices
 - How to implement server-side form validation
 - How to use the React useFormState hook to handle form errors, and display them to the user
+
+**15. Adding Authentication** - Add authentication to protect your dashboard routes using NextAuth.js, Server Actions and Middleware
+
+- What is authentication
+- How to add authentication to your app using NextAuth.js
+- How to use Middleware to redirect users and protect your routes
+- How to use React's `useFormStatus` and `useFormState` to handle pending states and form errors
