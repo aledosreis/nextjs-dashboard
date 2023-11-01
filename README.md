@@ -76,3 +76,12 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - Learn how to use the Next.js APIs: searchParams, usePathname, and useRouter
 - Implement search and pagination using URL search params
+
+**12. Mutating Data** - Mutate data using React Server Actions, and revalidate the Next.js cache
+
+- What React Server Actions are and how to use them to mutate data
+- How to work with forms and Server Components
+- Best practices for working with the native formData object, including type validation
+- How to revalidate the client cache using the revalidatePath API
+- How to create dynamic route segments with specific IDs
+- How to use the React's useFormStatus hook for optimistic updates
