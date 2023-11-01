@@ -44,3 +44,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - Set up a Vercel account and link your GitHub repo for instant previews and deployments
 - Create and link your project to a Postgres database
 - Seed the database with inicial data
+
+**7. Fetching Data** - Learn about the different ways to fetch data in Next.js, and fetch data for your dashboard page using Server Components
+
+- Learn about some approaches to fetching data: APIs, ORMs, SQL, etc
+- How Server Components help us access our back-end resources more securely
+- What network waterfalls are
+- How to implement parallel data fetching using a JavaScript Pattern
