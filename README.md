@@ -58,3 +58,11 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - What Dynamic Rendering is and when to use it
 - Different approaches to make your dashboard dynamic
 - The limitation of fetching data at request time
+
+**9. Streaming** - Improve your application's loading experience with streaming and loading skeletons
+
+- What streaming is and when you might use it
+- How to implement streaming with loading.js and Suspense
+- What loading skeletons are
+- What route groups are, and when you might use them
+- Qhere to place Suspense boundaries in your application
